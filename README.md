@@ -86,12 +86,6 @@ aws-cloud-image-copy/
 │── README.md           # Project documentation
 │── iam-policy.json     # IAM policy JSON
 ```
-
-## Next Steps
-- Add logging to track copy operations.
-- Extend functionality with API Gateway for manual triggers.
-- Implement error handling for failed copies.
-
 ---
 ### Author
 **Poorvick** 🚀
