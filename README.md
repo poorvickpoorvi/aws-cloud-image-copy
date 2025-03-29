@@ -1,4 +1,3 @@
-# aws-cloud-image-copy
 # AWS Cloud Image Copy
 
 ## Project Overview
